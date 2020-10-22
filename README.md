@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=siyeons&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=siyeons&count_private=true&show_icons=true">
 
 ### Hello! I'm Siyeon  <span><img src="https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif" height="24"><span>
 
