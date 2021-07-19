@@ -6,5 +6,5 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sianlee1114)](https://www.facebook.com/sianlee1114)
   
 👩‍💻 Junior Frontend Developer <br>
-📚 Vue.js, React.js, Javascript(ES6+), Typescript, Node.js <br> 
+📚 Vue.js, React.js, JS(ES6+), TS, Node.js <br> 
 🚀 **Current** [SpaceONE Console](https://github.com/spaceone-dev/console)
