@@ -5,6 +5,6 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://velog.io/@sian)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sianlee1114)](https://www.facebook.com/sianlee1114)
   
-👩‍💻 Junior Frontend Developer <br>
+👩‍💻 Frontend Engineer <br>
 📚 Vue.js, React, JS(ES6+), TS, Node.js <br> 
 🚀 **Current** [SpaceONE Console](https://github.com/spaceone-dev/console)
